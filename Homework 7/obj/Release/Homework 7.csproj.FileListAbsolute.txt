@@ -1,0 +1,14 @@
+F:\Homework_7\Homework 7\bin\Release\Homework 7.exe.config
+F:\Homework_7\Homework 7\bin\Release\Homework 7.exe
+F:\Homework_7\Homework 7\bin\Release\Homework 7.pdb
+F:\Homework_7\Homework 7\bin\Release\MapleUI.dll
+F:\Homework_7\Homework 7\obj\Release\Homework 7.csproj.AssemblyReference.cache
+F:\Homework_7\Homework 7\obj\Release\Interop.WMPLib.dll
+F:\Homework_7\Homework 7\obj\Release\Homework 7.csproj.ResolveComReference.cache
+F:\Homework_7\Homework 7\obj\Release\Homework_7.MainForm.resources
+F:\Homework_7\Homework 7\obj\Release\Homework_7.Properties.Resources.resources
+F:\Homework_7\Homework 7\obj\Release\Homework 7.csproj.GenerateResource.cache
+F:\Homework_7\Homework 7\obj\Release\Homework 7.csproj.CoreCompileInputs.cache
+F:\Homework_7\Homework 7\obj\Release\Homework 7.csproj.CopyComplete
+F:\Homework_7\Homework 7\obj\Release\Homework 7.exe
+F:\Homework_7\Homework 7\obj\Release\Homework 7.pdb
